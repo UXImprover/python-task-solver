@@ -32,7 +32,7 @@ After running the script, the output will look like this:
 ## Installation:
 1. Clone or download the repository.
 2. Ensure you have Python 3.x installed.
-3. Run the script directly with `python huina.py`.
+3. Run the script directly with `python script.py`.
 
 Perfect for learning, experimenting with Python, or just automating your math tasks in a fun way! 🎮
 
